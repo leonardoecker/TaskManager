@@ -1,0 +1,17 @@
+/home/user/Documentos/Particular/projetos/c#/TaskManager/TaskManager.Application/bin/Debug/net10.0/TaskManager.Application.deps.json
+/home/user/Documentos/Particular/projetos/c#/TaskManager/TaskManager.Application/bin/Debug/net10.0/TaskManager.Application.dll
+/home/user/Documentos/Particular/projetos/c#/TaskManager/TaskManager.Application/bin/Debug/net10.0/TaskManager.Application.pdb
+/home/user/Documentos/Particular/projetos/c#/TaskManager/TaskManager.Application/bin/Debug/net10.0/TaskManager.Communication.dll
+/home/user/Documentos/Particular/projetos/c#/TaskManager/TaskManager.Application/bin/Debug/net10.0/TaskManager.Entity.dll
+/home/user/Documentos/Particular/projetos/c#/TaskManager/TaskManager.Application/bin/Debug/net10.0/TaskManager.Communication.pdb
+/home/user/Documentos/Particular/projetos/c#/TaskManager/TaskManager.Application/bin/Debug/net10.0/TaskManager.Entity.pdb
+/home/user/Documentos/Particular/projetos/c#/TaskManager/TaskManager.Application/obj/Debug/net10.0/TaskManager.Application.csproj.AssemblyReference.cache
+/home/user/Documentos/Particular/projetos/c#/TaskManager/TaskManager.Application/obj/Debug/net10.0/TaskManager.Application.GeneratedMSBuildEditorConfig.editorconfig
+/home/user/Documentos/Particular/projetos/c#/TaskManager/TaskManager.Application/obj/Debug/net10.0/TaskManager.Application.AssemblyInfoInputs.cache
+/home/user/Documentos/Particular/projetos/c#/TaskManager/TaskManager.Application/obj/Debug/net10.0/TaskManager.Application.AssemblyInfo.cs
+/home/user/Documentos/Particular/projetos/c#/TaskManager/TaskManager.Application/obj/Debug/net10.0/TaskManager.Application.csproj.CoreCompileInputs.cache
+/home/user/Documentos/Particular/projetos/c#/TaskManager/TaskManager.Application/obj/Debug/net10.0/TaskMana.898BD9DB.Up2Date
+/home/user/Documentos/Particular/projetos/c#/TaskManager/TaskManager.Application/obj/Debug/net10.0/TaskManager.Application.dll
+/home/user/Documentos/Particular/projetos/c#/TaskManager/TaskManager.Application/obj/Debug/net10.0/refint/TaskManager.Application.dll
+/home/user/Documentos/Particular/projetos/c#/TaskManager/TaskManager.Application/obj/Debug/net10.0/TaskManager.Application.pdb
+/home/user/Documentos/Particular/projetos/c#/TaskManager/TaskManager.Application/obj/Debug/net10.0/ref/TaskManager.Application.dll

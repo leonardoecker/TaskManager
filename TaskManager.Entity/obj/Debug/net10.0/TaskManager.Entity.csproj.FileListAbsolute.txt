@@ -1,0 +1,11 @@
+/home/user/Documentos/Particular/projetos/c#/TaskManager/TaskManager.Entity/bin/Debug/net10.0/TaskManager.Entity.deps.json
+/home/user/Documentos/Particular/projetos/c#/TaskManager/TaskManager.Entity/bin/Debug/net10.0/TaskManager.Entity.dll
+/home/user/Documentos/Particular/projetos/c#/TaskManager/TaskManager.Entity/bin/Debug/net10.0/TaskManager.Entity.pdb
+/home/user/Documentos/Particular/projetos/c#/TaskManager/TaskManager.Entity/obj/Debug/net10.0/TaskManager.Entity.GeneratedMSBuildEditorConfig.editorconfig
+/home/user/Documentos/Particular/projetos/c#/TaskManager/TaskManager.Entity/obj/Debug/net10.0/TaskManager.Entity.AssemblyInfoInputs.cache
+/home/user/Documentos/Particular/projetos/c#/TaskManager/TaskManager.Entity/obj/Debug/net10.0/TaskManager.Entity.AssemblyInfo.cs
+/home/user/Documentos/Particular/projetos/c#/TaskManager/TaskManager.Entity/obj/Debug/net10.0/TaskManager.Entity.csproj.CoreCompileInputs.cache
+/home/user/Documentos/Particular/projetos/c#/TaskManager/TaskManager.Entity/obj/Debug/net10.0/TaskManager.Entity.dll
+/home/user/Documentos/Particular/projetos/c#/TaskManager/TaskManager.Entity/obj/Debug/net10.0/refint/TaskManager.Entity.dll
+/home/user/Documentos/Particular/projetos/c#/TaskManager/TaskManager.Entity/obj/Debug/net10.0/TaskManager.Entity.pdb
+/home/user/Documentos/Particular/projetos/c#/TaskManager/TaskManager.Entity/obj/Debug/net10.0/ref/TaskManager.Entity.dll

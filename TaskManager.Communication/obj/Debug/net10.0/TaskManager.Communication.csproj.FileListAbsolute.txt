@@ -1,0 +1,11 @@
+/home/user/Documentos/Particular/projetos/c#/TaskManager/TaskManager.Communication/obj/Debug/net10.0/TaskManager.Communication.GeneratedMSBuildEditorConfig.editorconfig
+/home/user/Documentos/Particular/projetos/c#/TaskManager/TaskManager.Communication/obj/Debug/net10.0/TaskManager.Communication.AssemblyInfoInputs.cache
+/home/user/Documentos/Particular/projetos/c#/TaskManager/TaskManager.Communication/obj/Debug/net10.0/TaskManager.Communication.AssemblyInfo.cs
+/home/user/Documentos/Particular/projetos/c#/TaskManager/TaskManager.Communication/obj/Debug/net10.0/TaskManager.Communication.csproj.CoreCompileInputs.cache
+/home/user/Documentos/Particular/projetos/c#/TaskManager/TaskManager.Communication/bin/Debug/net10.0/TaskManager.Communication.deps.json
+/home/user/Documentos/Particular/projetos/c#/TaskManager/TaskManager.Communication/bin/Debug/net10.0/TaskManager.Communication.dll
+/home/user/Documentos/Particular/projetos/c#/TaskManager/TaskManager.Communication/bin/Debug/net10.0/TaskManager.Communication.pdb
+/home/user/Documentos/Particular/projetos/c#/TaskManager/TaskManager.Communication/obj/Debug/net10.0/TaskManager.Communication.dll
+/home/user/Documentos/Particular/projetos/c#/TaskManager/TaskManager.Communication/obj/Debug/net10.0/refint/TaskManager.Communication.dll
+/home/user/Documentos/Particular/projetos/c#/TaskManager/TaskManager.Communication/obj/Debug/net10.0/TaskManager.Communication.pdb
+/home/user/Documentos/Particular/projetos/c#/TaskManager/TaskManager.Communication/obj/Debug/net10.0/ref/TaskManager.Communication.dll
