@@ -27,13 +27,13 @@ A API permite:
 ### 1. Clone o repositório
 
 ```bash
-git clone <url-do-repositorio>
+git clone git@github.com:leonardoecker/TaskManager.git
 ```
 
 ### 2. Acesse a pasta do projeto
 
 ```bash
-cd nome-do-projeto
+cd TaskManager
 ```
 
 ### 3. Abra o projeto no VS Code
