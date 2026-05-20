@@ -9,3 +9,4 @@
 /home/user/Documentos/Particular/projetos/c#/TaskManager/TaskManager.Communication/obj/Debug/net10.0/refint/TaskManager.Communication.dll
 /home/user/Documentos/Particular/projetos/c#/TaskManager/TaskManager.Communication/obj/Debug/net10.0/TaskManager.Communication.pdb
 /home/user/Documentos/Particular/projetos/c#/TaskManager/TaskManager.Communication/obj/Debug/net10.0/ref/TaskManager.Communication.dll
+/home/user/Documentos/Particular/projetos/c#/TaskManager/TaskManager.Communication/obj/Debug/net10.0/TaskManager.Communication.sourcelink.json

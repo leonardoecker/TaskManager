@@ -1,0 +1,74 @@
+## Arquivos de Build e Compilação
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Ww][Ii][Nn]32/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+## Pacotes e Ferramentas baixadas
+/[Pp]ackages/
+!/[Pp]ackages/build/
+**/[Nn]uGet/
+!**/[Nn]uGet/
+[Tt]est[Rr]esult/
+[Tt]est[Rr]esults/
+
+## Publicação (Publish)
+/[Pp]ublish/
+/[Pp]ublishProfiles/
+
+## Diretórios e arquivos específicos do Visual Studio
+.vs/
+.vscode/
+.sln.docstates
+.suo
+*.user
+*.userosscache
+*.sln.asv
+*.ide
+
+## Arquivos do Rider
+*.iml
+.idea/
+
+## Cache e arquivos do banco de dados local
+*.rsuser
+*.suo
+*.cache
+*.db
+*.opendb
+*.dbmdl
+.cachefile
+[Dd]ebugPublic/
+
+## Pacotes de Símbolos
+*.pdb
+
+## Arquivos de Sistema
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+## Configurações do Azure
+PublishScripts/
+*.pubxml
+*.azurePublishSettings
+
+## Dotnet Tools
+.config/dotnet-tools.json
+
+## Secrets e Variáveis de Ambiente
+*.env
+*.local.settings.json
+appsettings.Development.json

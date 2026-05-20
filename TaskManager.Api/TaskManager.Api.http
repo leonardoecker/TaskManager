@@ -1,6 +1,37 @@
 @TaskManager.Api_HostAddress = http://localhost:5048
 
-GET {{TaskManager.Api_HostAddress}}/weatherforecast/
+### Create Task
+POST {{TaskManager.Api_HostAddress}}/tasks/
 Accept: application/json
+Content-Type: application/json
 
-###
+{
+  "name": "",
+  "priority": 4,
+  "status": 4,
+  "dueDate": "2026-05-21T23:41:44.719Z"
+}
+
+### Get Task
+GET {{TaskManager.Api_HostAddress}}/tasks/4c14e542-0d79-435d-83e7-830a8592969f
+Accept: application/json
+Content-Type: application/json
+
+### List Tasks
+GET {{TaskManager.Api_HostAddress}}/tasks/
+Accept: application/json
+Content-Type: application/json
+
+### Update Task
+PUT {{TaskManager.Api_HostAddress}}/tasks/
+Accept: application/json
+Content-Type: application/json
+
+{
+
+}
+
+### Delete Task
+DELETE {{TaskManager.Api_HostAddress}}/tasks/
+Accept: application/json
+Content-Type: application/json

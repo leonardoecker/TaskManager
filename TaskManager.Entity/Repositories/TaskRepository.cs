@@ -69,7 +69,7 @@ public class TaskRepository : ITaskRepository
             existingTask.Priority = task.Priority;
             existingTask.Status = task.Status;
             existingTask.DueDate = task.DueDate;
-            existingTask.UpdatedAt = task.UpdatedAt;
+            existingTask.UpdatedAt = DateTime.Now;
 
             var newJson = JsonSerializer.Serialize(tasks, _options);
             File.WriteAllText(_filePath, newJson);

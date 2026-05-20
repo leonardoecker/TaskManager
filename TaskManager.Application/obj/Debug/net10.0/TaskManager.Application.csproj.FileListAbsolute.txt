@@ -15,3 +15,4 @@
 /home/user/Documentos/Particular/projetos/c#/TaskManager/TaskManager.Application/obj/Debug/net10.0/refint/TaskManager.Application.dll
 /home/user/Documentos/Particular/projetos/c#/TaskManager/TaskManager.Application/obj/Debug/net10.0/TaskManager.Application.pdb
 /home/user/Documentos/Particular/projetos/c#/TaskManager/TaskManager.Application/obj/Debug/net10.0/ref/TaskManager.Application.dll
+/home/user/Documentos/Particular/projetos/c#/TaskManager/TaskManager.Application/obj/Debug/net10.0/TaskManager.Application.sourcelink.json

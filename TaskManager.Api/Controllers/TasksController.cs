@@ -7,11 +7,11 @@ using TaskManager.Application.UseCases.Update;
 using TaskManager.Communication.Requests;
 using TaskManager.Communication.Responses;
 
-namespace TaskManager.Api.Controllers.Task;
+namespace TaskManager.Api.Controllers.Tasks;
 
 [ApiController]
 [Route("/[controller]")]
-public class TaskController : ControllerBase
+public class TasksController : ControllerBase
 {
     [HttpGet]
     [Route("{id}")]
